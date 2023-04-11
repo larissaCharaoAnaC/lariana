@@ -18,3 +18,9 @@
 .cabecalho-lista-item{
     display: inline-block;  
 }
+.escola-imagem{
+    width:25%;
+}
+.escola{
+    background-image: linear-gradient(#DE45BC,#3ABDF5);
+}
